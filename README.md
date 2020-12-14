@@ -2,4 +2,4 @@
 
 A simple html-css template for creating and maintaining resumes.
 
-![](https://imgur.com/lRpsvDU.jpg)
+![](https://i.imgur.com/41uvK4E.jpeg)
