@@ -1,3 +1,3 @@
 # Resume
 
-https://kalimi.github.io/Resume/
+https://karenxpn.github.io/Resume/
